@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Olá, eu sou João Pedro!
 
-<!--
-**Porangab4/Porangab4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Desenvolvimento de Sistemas na ETEC  
+💻 Aprendendo Python e desenvolvimento de sistemas  
+🚀 Construindo projetos próprios para desenvolver minhas habilidades  
+📚 Atualmente estudando programação, Git e GitHub
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Git
+- GitHub
+- JSON
+- VS Code
+
+## 📌 Projeto em destaque
+
+### 💰 Controle Financeiro
+
+Sistema desenvolvido em Python para gerenciamento de entradas, gastos e organização financeira.
+
+Principais funcionalidades:
+
+- Adicionar entradas e gastos
+- Controle de saldo
+- Histórico de transações
+- Resumo financeiro
+- Resumo por categoria
+- Pesquisa de transações
+- Edição e exclusão de transações
+- Salvamento de dados em JSON
+
+🔗 [Ver projeto no GitHub](https://github.com/Porangab4/controle-financeiro-python)
+
+## 🎯 Objetivo
+
+Estou construindo minha experiência através de projetos práticos e buscando oportunidades para aplicar meus conhecimentos na área de tecnologia.
