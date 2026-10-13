@@ -80,7 +80,6 @@ Em vez de projetos genéricos de vitrine, aqui estão **repositórios que desenv
 
 ### Tem um projeto, uma oportunidade ou uma ideia?
 
-Gosto de conversar sobre tecnologia e conhecer novos desafios.
 
 **[LinkedIn](https://www.linkedin.com/in/joao-pedro-porangaba/)** &nbsp;·&nbsp; **[Email](mailto:jpporangaba@gmail.com)** &nbsp;·&nbsp; **[Repositórios](https://github.com/Porangab4?tab=repositories)**
 
