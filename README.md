@@ -1,65 +1,57 @@
-# 👋 Olá, eu sou João Pedro!
+<div align="center">
 
-🎓 Estudante de Desenvolvimento de Sistemas na ETEC Martin Luther King  
-💻 Interessado em programação e desenvolvimento de software  
-🐍 Atualmente focado em Python, lógica de programação e construção de projetos práticos
+<img src="./assets/header.svg" width="100%" alt="PORANGAB4 — Software Development" />
+
+### João Pedro · Desenvolvedor em formação
+
+**Python · Desenvolvimento de Sistemas · Projetos práticos**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Porangab4-0b1220?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Porangab4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0b1220?style=for-the-badge&logo=linkedin&logoColor=4de3eb)](https://www.linkedin.com/in/joao-pedro-porangaba/)
+[![Email](https://img.shields.io/badge/Email-Contato-0b1220?style=for-the-badge&logo=gmail&logoColor=4de3eb)](mailto:jpporangaba@gmail.com)
+
+</div>
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+### `01 / ABOUT`
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode" />
+Sou estudante do **Técnico em Desenvolvimento de Sistemas na ETEC** e desenvolvo projetos que transformam conceitos de programação em soluções reais. Hoje meu foco está em **Python**, lógica, organização de código e evolução contínua como desenvolvedor.
+
+> `Objetivo atual:` ampliar minha experiência prática e conquistar uma oportunidade de estágio em tecnologia.
+
+### `02 / TECH STACK`
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" alt="Python, Git, GitHub e VS Code" />
 </p>
 
----
+**Em estudo:** estruturas de dados · bibliotecas Python · desenvolvimento web · bancos de dados.
 
-## 📚 Atualmente estudando
+### `03 / SELECTED WORK`
 
-- 🐍 Python
-- 🧠 Lógica de programação
-- 🗂️ Estruturas de dados
-- 🔧 Git e GitHub
-- 🌐 Fundamentos de desenvolvimento web
+| Projeto | O que desenvolvi | Stack |
+| :--- | :--- | :--- |
+| [**Controle Financeiro**](https://github.com/Porangab4/controle-financeiro-python) | Registro de entradas e gastos, acompanhamento de saldo e persistência em JSON. | `Python` `JSON` |
+| [**Controle de Níveis de Água**](https://github.com/Porangab4/controle-niveis-agua) | Monitoramento simulado de reservatório com alertas coloridos no terminal. | `Python` `Colorama` |
+| [**Pesquisa de Opinião**](https://github.com/Porangab4/pesquisa-opiniao) | Coleta e processamento de respostas com estruturas de repetição. | `Python` |
+| [**Consumo de Água**](https://github.com/Porangab4/consumo-agua) | Classificação do consumo de água por critérios definidos. | `Python` |
+| [**Consumo de Energia**](https://github.com/Porangab4/consumo-energia) | Exercício de programação aplicado a consumo energético. | `Python` |
 
----
+### `04 / ACTIVITY`
 
-## 🚀 Projeto em destaque
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Porangab4&layout=compact&hide_border=true&bg_color=0b1220&title_color=55e7f1&text_color=c9d8e8" alt="Linguagens utilizadas nos repositórios públicos" />
+</div>
 
-### 💰 Controle Financeiro
-
-Sistema desenvolvido em Python para gerenciamento de entradas, gastos e organização financeira.
-
-**Principais funcionalidades:**
-
-- ➕ Cadastro de entradas e gastos
-- 💰 Controle de saldo
-- 📋 Histórico de transações
-- 📊 Resumo financeiro
-- 🏷️ Organização por categorias
-- 🔎 Pesquisa de transações
-- ✏️ Edição e exclusão de registros
-- 💾 Persistência de dados utilizando JSON
-
-👉 [Ver projeto no GitHub](https://github.com/Porangab4/controle-financeiro-python)
+<sub>Estatísticas fornecidas por um serviço externo, sujeitas à disponibilidade.</sub>
 
 ---
 
-## 🎯 Sobre meus objetivos
+<div align="center">
 
-Estou construindo minha experiência através de projetos próprios e estudos práticos, buscando evoluir como desenvolvedor e conquistar minha primeira oportunidade profissional na área de tecnologia.
+**BUILD • LEARN • IMPROVE • REPEAT**
 
-Tenho interesse em aprender novas tecnologias, resolver problemas e transformar conhecimentos em projetos que possam ser utilizados na prática.
+<sub>Feito com atenção aos detalhes. Atualizado em 2026.</sub>
 
----
-
-## 📫 Contato
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/joao-pedro-porangaba/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:jpporangaba@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+</div>
