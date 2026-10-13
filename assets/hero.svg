@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-label="PORANGAB4 developer profile animated header">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#070d1a"/><stop offset=".52" stop-color="#0c1931"/><stop offset="1" stop-color="#060b16"/></linearGradient><linearGradient id="accent"><stop stop-color="#22d3ee"/><stop offset=".55" stop-color="#637cff"/><stop offset="1" stop-color="#a78bfa"/></linearGradient><pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#5f87b7" stroke-opacity=".13"/></pattern><filter id="glow"><feGaussianBlur stdDeviation="11"/></filter></defs>
+<rect width="1200" height="390" rx="24" fill="url(#bg)"/><rect width="1200" height="390" rx="24" fill="url(#grid)"/>
+<circle cx="1045" cy="155" r="134" fill="none" stroke="#2ccdf3" stroke-opacity=".25" stroke-width="1.5" stroke-dasharray="7 12"><animateTransform attributeName="transform" type="rotate" from="0 1045 155" to="360 1045 155" dur="42s" repeatCount="indefinite"/></circle>
+<circle cx="1045" cy="155" r="102" fill="none" stroke="#7788ff" stroke-opacity=".42" stroke-width="2" stroke-dasharray="160 480"><animateTransform attributeName="transform" type="rotate" from="360 1045 155" to="0 1045 155" dur="16s" repeatCount="indefinite"/></circle>
+<circle cx="1045" cy="155" r="66" fill="#1a2d4a" stroke="#3cd9f0" stroke-opacity=".55"/><path d="M1020 134l-20 21 20 21m50-42 20 21-20 21m-37 11 23-63" stroke="url(#accent)" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M40 64H460" stroke="url(#accent)" stroke-width="2"><animate attributeName="stroke-dasharray" values="0 420;180 240;0 420" dur="7s" repeatCount="indefinite"/></path>
+<text x="56" y="105" fill="#6ee7f5" font-family="monospace" font-size="19" letter-spacing="4">SYSTEM PROFILE / 001</text>
+<text x="51" y="206" fill="#f2f6ff" font-family="Arial,Helvetica,sans-serif" font-size="90" font-weight="800" letter-spacing="-4">PORANGAB4</text>
+<rect x="55" y="231" width="485" height="3" rx="2" fill="url(#accent)"/>
+<text x="57" y="274" fill="#c4d3e9" font-family="Arial,Helvetica,sans-serif" font-size="23" letter-spacing="1">JOÃO PEDRO  /  SOFTWARE DEVELOPMENT</text>
+<text x="57" y="314" fill="#7dd8ea" font-family="monospace" font-size="18">&gt; building useful things, one commit at a time_</text>
+<rect x="55" y="343" width="10" height="10" rx="2" fill="#42e6be"><animate attributeName="opacity" values="1;.2;1" dur="2.2s" repeatCount="indefinite"/></rect><text x="74" y="353" fill="#a9bed6" font-family="monospace" font-size="14">LEARNING / BUILDING / SHIPPING</text>
+<circle cx="1120" cy="62" r="3" fill="#5de1ff"><animate attributeName="cy" values="62;86;62" dur="4s" repeatCount="indefinite"/></circle><circle cx="920" cy="280" r="3" fill="#a78bfa"><animate attributeName="cx" values="920;945;920" dur="5s" repeatCount="indefinite"/></circle>
+<path d="M24 24h60M24 24v60M1176 366h-60m60 0v-60" stroke="#68a7d8" stroke-opacity=".45" stroke-width="2" fill="none"/></svg>
