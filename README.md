@@ -1,133 +1,91 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="PORANGAB4 — developer profile" />
+<img src="./assets/hero.svg" width="100%" alt="PORANGAB4 — João Pedro. Ideias que viram código." />
 
-<br/>
+<br>
 
-[![Portfolio](https://img.shields.io/badge/PROFILE-PORANGAB4-0b1326?style=for-the-badge&logo=github&logoColor=3ddbed)](https://github.com/Porangab4)
-[![LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-0b1326?style=for-the-badge&logo=linkedin&logoColor=3ddbed)](https://www.linkedin.com/in/joao-pedro-porangaba/)
-[![Mail](https://img.shields.io/badge/CONTACT-Email-0b1326?style=for-the-badge&logo=gmail&logoColor=3ddbed)](mailto:jpporangaba@gmail.com)
+**Português** · [English](./docs/README.en.md)
 
-**`PYTHON`** &nbsp; • &nbsp; **`SOFTWARE DEVELOPMENT`** &nbsp; • &nbsp; **`PROBLEM SOLVING`**
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Explorar_repositórios-111c2e?style=flat-square&logo=github&logoColor=white)](https://github.com/Porangab4?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-111c2e?style=flat-square&logo=linkedin&logoColor=77e9df)](https://www.linkedin.com/in/joao-pedro-porangaba/)
+[![Email](https://img.shields.io/badge/Email-Contato-111c2e?style=flat-square&logo=gmail&logoColor=77e9df)](mailto:jpporangaba@gmail.com)
+
+`Python` &nbsp; `Desenvolvimento de Sistemas` &nbsp; `Aplicações Web` &nbsp; `Dados`
 
 </div>
 
-<br/>
-
-<img src="./assets/about.svg" width="100%" alt="01 About" />
+<img src="./assets/section-01.svg" width="100%" alt="01 Sobre mim" />
 
 ### Olá, eu sou o João Pedro 👋
 
-Sou estudante de **Desenvolvimento de Sistemas na ETEC**, com foco em transformar o que aprendo em projetos funcionais. Gosto de entender a lógica por trás de cada solução, testar ideias e melhorar meu código a cada versão.
+Gosto de transformar ideias em projetos que realmente funcionam. Estudo **Desenvolvimento de Sistemas na ETEC** e construo minha experiência com Python, aplicações web, automações e resolução de problemas.
 
-```python
-class Developer:
-    name = "João Pedro"
-    username = "Porangab4"
-    focus = ["Python", "Software Development", "Problem Solving"]
-    mindset = "learn → build → test → improve"
-```
+Meu foco é aprender os fundamentos, colocar cada conceito em prática e evoluir a qualidade do que entrego. **Estou em busca de oportunidades de estágio em tecnologia.**
 
-- 🎓 **Formação:** Técnico em Desenvolvimento de Sistemas — ETEC (em andamento)
-- 🧠 **Atualmente:** Python, lógica de programação, desenvolvimento de sistemas e ferramentas web
-- 🎯 **Próximo passo:** oportunidade de estágio para aplicar e ampliar meus conhecimentos
+<table><tr><td width="33%"><b>🎓 Formação</b><br>Técnico em Desenvolvimento de Sistemas — ETEC (em andamento)</td><td width="33%"><b>🧩 O que construo</b><br>Scripts, ferramentas e aplicações para problemas do dia a dia</td><td width="34%"><b>🎯 Objetivo</b><br>Crescer na área de tecnologia e contribuir em projetos reais</td></tr></table>
 
-<br/>
-
-<img src="./assets/stack.svg" width="100%" alt="02 Toolkit" />
+<img src="./assets/section-02.svg" width="100%" alt="02 Ferramentas" />
 
 <div align="center">
 
-**Linguagens e ferramentas que utilizo / estudo**
+**Base e ferramentas**
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,git,github,vscode&theme=dark" alt="Python JavaScript TypeScript HTML CSS Git GitHub VS Code" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,git,github,vscode&theme=dark" alt="Python, JavaScript, TypeScript, HTML, CSS, Git, GitHub e VS Code" />
 
-<br/><br/>
+<br><br>
 
-**Tecnologias que exploro em projetos**
+**Tecnologias utilizadas ou em estudo em projetos**
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nextjs,postgres&theme=dark" alt="FastAPI Flask Next.js PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nextjs,postgres&theme=dark" alt="FastAPI, Flask, Next.js e PostgreSQL" />
 
 </div>
 
-<sub>As ferramentas representam diferentes níveis de experiência e estudo — não certificações de proficiência.</sub>
+<sub>Ferramentas em diferentes níveis de experiência; esta seção não representa domínio avançado de todas elas.</sub>
 
-<br/><br/>
+<img src="./assets/section-03.svg" width="100%" alt="03 Projetos" />
 
-<img src="./assets/work.svg" width="100%" alt="03 Selected work" />
+Em vez de projetos genéricos de vitrine, aqui estão **repositórios que desenvolvi para praticar soluções concretas**.
 
-<div align="center">
-<table>
-<tr><td width="50%" valign="top">
-<h3>💧 Controle de Níveis de Água</h3>
-<p>Simulação de monitoramento de reservatório com alertas visuais por nível.</p>
-<p><code>Python</code> <code>Colorama</code></p>
-<a href="https://github.com/Porangab4/controle-niveis-agua"><b>Explorar projeto ↗</b></a>
-</td><td width="50%" valign="top">
-<h3>💸 Controle Financeiro</h3>
-<p>Registro de entradas, despesas, saldo e histórico com persistência de dados.</p>
-<p><code>Python</code> <code>JSON</code></p>
-<a href="https://github.com/Porangab4/controle-financeiro-python"><b>Explorar projeto ↗</b></a>
-</td></tr>
-<tr><td width="50%" valign="top">
-<h3>📊 Pesquisa de Opinião</h3>
-<p>Contagem e processamento de respostas utilizando estruturas de repetição.</p>
-<p><code>Python</code> <code>Loops</code></p>
-<a href="https://github.com/Porangab4/pesquisa-opiniao"><b>Explorar projeto ↗</b></a>
-</td><td width="50%" valign="top">
-<h3>⚡ Consumo de Energia</h3>
-<p>Projeto de lógica de programação aplicado à análise de consumo.</p>
-<p><code>Python</code> <code>Logic</code></p>
-<a href="https://github.com/Porangab4/consumo-energia"><b>Explorar projeto ↗</b></a>
-</td></tr>
-<tr><td width="50%" valign="top">
-<h3>🚰 Consumo de Água</h3>
-<p>Exercício de programação voltado à classificação e análise de consumo.</p>
-<p><code>Python</code> <code>Conditions</code></p>
-<a href="https://github.com/Porangab4/consumo-agua"><b>Explorar projeto ↗</b></a>
-</td><td width="50%" valign="top">
-<h3>🧩 Outros experimentos</h3>
-<p>Exercícios, desafios e novas ideias publicados conforme evoluo.</p>
-<p><code>Learning</code> <code>Building</code></p>
-<a href="https://github.com/Porangab4?tab=repositories"><b>Todos os repositórios ↗</b></a>
-</td></tr>
-</table>
-</div>
-
-<br/>
-
-<img src="./assets/activity.svg" width="100%" alt="04 Activity" />
+| Projeto | O que faz | Tecnologias |
+|:--|:--|:--|
+| [💧 Controle de Níveis de Água](https://github.com/Porangab4/controle-niveis-agua) | Classifica os níveis de reservatórios e apresenta alertas visuais coloridos no terminal. | `Python` `Colorama` |
+| [💰 Controle Financeiro](https://github.com/Porangab4/controle-financeiro-python) | Registra receitas e despesas, calcula saldo e guarda o histórico. | `Python` `JSON` |
+| [📊 Pesquisa de Opinião](https://github.com/Porangab4/pesquisa-opiniao) | Processa respostas de uma pesquisa usando estruturas de repetição. | `Python` |
+| [⚡ Consumo de Energia](https://github.com/Porangab4/consumo-energia) | Exercícios de lógica e análise de consumo elétrico. | `Python` |
+| [🚰 Consumo de Água](https://github.com/Porangab4/consumo-agua) | Programa aplicado ao registro e à análise do consumo de água. | `Python` |
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Porangab4&show_icons=true&hide_border=true&bg_color=0a1326&title_color=37d8eb&text_color=d4e1f4&icon_color=8b80ff" alt="GitHub activity statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Porangab4&layout=compact&hide_border=true&bg_color=0a1326&title_color=37d8eb&text_color=d4e1f4" alt="Most used repository languages" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Porangab4&bg_color=0a1326&color=37d8eb&line=8b80ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
-
-<sub>Gráficos dinâmicos de serviços externos; podem ficar temporariamente indisponíveis.</sub>
+**[Ver todos os repositórios →](https://github.com/Porangab4?tab=repositories)**
 
 </div>
 
-<br/>
-
-<img src="./assets/contact.svg" width="100%" alt="05 Contact" />
+<img src="./assets/section-04.svg" width="100%" alt="04 Atividade" />
 
 <div align="center">
 
-### Tem uma ideia, projeto ou oportunidade?
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Porangab4&layout=compact&hide_border=true&bg_color=0b1527&title_color=72e7df&text_color=dce6f4" alt="Linguagens mais presentes nos repositórios públicos" height="160" />
 
-**Estou aberto a trocar experiências, colaborar e aprender com novos desafios.**
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0b1326?style=for-the-badge&logo=linkedin&logoColor=3ddbed)](https://www.linkedin.com/in/joao-pedro-porangaba/)
-[![Email](https://img.shields.io/badge/Email-Enviar_mensagem-0b1326?style=for-the-badge&logo=gmail&logoColor=3ddbed)](mailto:jpporangaba@gmail.com)
+<sub>Indicador automático baseado nos repositórios públicos, não no nível de proficiência. O serviço de imagem pode ficar temporariamente indisponível.</sub>
 
-<br/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07101f,45:12335a,100:3656a8&height=100&section=footer" width="100%" alt="Decorative footer" />
+<img src="./assets/section-05.svg" width="100%" alt="05 Contato" />
 
-<sub>PORANGAB4 // BUILT WITH CURIOSITY · UPDATED 2026</sub>
+<div align="center">
+
+### Tem um projeto, uma oportunidade ou uma ideia?
+
+Gosto de conversar sobre tecnologia e conhecer novos desafios.
+
+**[LinkedIn](https://www.linkedin.com/in/joao-pedro-porangaba/)** &nbsp;·&nbsp; **[Email](mailto:jpporangaba@gmail.com)** &nbsp;·&nbsp; **[Repositórios](https://github.com/Porangab4?tab=repositories)**
+
+<br>
+
+<img src="./assets/footer.svg" width="100%" alt="PORANGAB4 — Curiosidade, prática e evolução" />
 
 </div>
